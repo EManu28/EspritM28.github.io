@@ -1,0 +1,138 @@
+/* Mise en forme en-tete */
+/* Mise en forme 1er bloc QUI SUIS JE */
+/* Mise en forme 2eme bloc PARCOURS PRO */
+/* Mise en forme 3eme bloc MOTIVATIONS */
+/* Mise en forme 4eme bloc PLUS VALUES */
+/* Mise en forme 5eme bloc BONUS */
+/* Mise en forme Pied de page */
+
+
+/* Mise en forme BODY */
+body
+{
+	background-color: black;
+	color: white; text-align: center;
+	font-family: "Trebuchet MS";
+	text-align: center;
+}
+h1
+{
+	text-align: center; font-size: 2.5em; /* Titres de grande taille */
+}
+h2
+{
+	color: blue;
+	font-style: italic;
+}
+
+h4
+{
+    color: black;
+	font-weight: bold;
+}
+p
+{
+	font-size: 1em; /* Paragraphes de taille medium */
+}
+strong
+{
+	font-weight: bold;
+}
+
+
+/* Mise en forme en-tete */
+.entete
+{
+    background-image: url("avatar3.png");
+    background-attachment: fixed; /* Le fond restera fixe */
+	background-repeat: no-repeat;
+	background-position: 1350px 15px;
+	color: red; text-align: center; font-style: oblique;
+}
+
+
+/* Mise en forme 1er bloc QUI SUIS JE */
+.intro
+{
+	background-image: url("fondmosaic.png");
+    background-attachment: fixed; /* Le fond restera fixe */
+	background-repeat: no-repeat;
+	color: white; text-align: center;
+}
+
+
+/* Mise en forme 2eme bloc PARCOURS PRO */
+.monparcourspro em
+{
+	color: teal; font-style: oblique;
+}
+
+
+/* Mise en forme 3eme bloc MOTIVATIONS */
+.mesmotivations
+{
+	background-image: url("fondsimplon2.png");
+    background-attachment: fixed; /* Le fond restera fixe */
+	background-repeat: no-repeat;
+}
+.article
+{
+	font-style: italic;
+}
+
+
+/* Mise en forme 4eme bloc PLUS VALUES */
+.mesplusvalues h4
+{
+	color: red;
+}
+
+
+/* Mise en forme 5eme bloc BONUS */
+.bonus
+{
+	background-image: url("fondmosaic.png");
+    background-attachment: fixed; /* Le fond restera fixe */
+	background-repeat: no-repeat;
+}
+.liensprofilspro
+{
+	width: 5vw; margin: auto;
+	text-align: center;
+}
+.liensprojets2p2l
+{
+	width: 20vw; margin: auto;
+	text-align: center;
+}
+
+
+/* Mise en forme Pied de page */
+.pieddepage1
+{
+	background-color: black;
+}
+.menu1
+{
+    color: white; text-align: center;
+}
+.pieddepage2
+{
+	background-color: black;
+}
+.menu2
+{
+    color: white; text-align: center;
+}
+
+/*  Fin Mise en forme */
+
+
+
+
+
+
+
+
+
+
